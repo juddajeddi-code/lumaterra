@@ -1,0 +1,33 @@
+
+You sent
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# VSCode settings folder
+.vscode/
+
+# Logs
+*.log
+
+# OS temporary files
+*.swp
+*.swo
+
+# Node or build artifacts (in case you add build tools later)
+node_modules/
+dist/
+
+# Temporary images / local assets not meant to be committed
+temp/
+*.tmp
+*.cache
+
+# Backup or editor files
+*~ 
+*.bak
+
+# Cloudflare Pages config files (optional, if you have local overrides)
+.cloudflare/
